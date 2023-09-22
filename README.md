@@ -1,3 +1,6 @@
+![image](https://github.com/tgbaozkn/promptopia/assets/39098806/02db22e8-42cd-45fc-a89e-1c176a0b2bd1)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
